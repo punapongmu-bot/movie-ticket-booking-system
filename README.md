@@ -91,7 +91,7 @@
 
 | ส่วน | เทคโนโลยี |
 | --- | --- |
-| Programming Language | Java (100%, ไม่ใช้ library ภายนอก) |
+| Programming Language | Java |
 | User Interface | Java Swing (`JFrame`/`JPanel`, แนะนำใช้ `CardLayout` สลับหน้าจอ) |
 | Data Storage | CSV File (Comma-Separated Values) |
 | File Handling | `java.io.*`, `java.nio.file.*` |
